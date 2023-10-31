@@ -1,4 +1,3 @@
--  [![@umakshi12's Holopin board](https://holopin.io/api/user/board?user=umakshi12)](https://holopin.io/@umakshi12)
 - 👋 Hi, I’m @Umakshi12
 - 👀 I’m interested in Python, C, Kotlin, Android development, SQL, and ML.
 - 🌱 I’m currently learning DSA.
